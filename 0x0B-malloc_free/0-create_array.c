@@ -24,5 +24,3 @@ char *create_array(unsigned int size, char c)
 	}
 	return (array);
 }
-Footer
-© 2023 GitHub, Inc.
